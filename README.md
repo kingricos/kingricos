@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingricos
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on front end and HTML
+- 👀 I’m interested in Software Development. 
+- 🌱 I’m currently learning how to code at alx school.
+- 💞️ I’m looking to collaborate on front end, HTML and CSS.
 - 📫 You can reach me here
 
 <!---
